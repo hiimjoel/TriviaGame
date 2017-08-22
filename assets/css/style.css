@@ -1,0 +1,18 @@
+div {
+	background-color: #CCCCCC;
+	color: #990033;
+	text-align: center;
+	padding: 50px;
+	margin: 50px;
+}
+
+h1 {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-style: italic;
+	color: #3322EE;
+}
+
+a{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 33px;
+}
